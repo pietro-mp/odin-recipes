@@ -1,0 +1,1 @@
+Simple recipe project for The Odin Project, including cakes and a filet with red wine sauce.
