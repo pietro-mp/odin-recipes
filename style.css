@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 64px;
+    margin: 20px auto 30px;
+}
+
+ul{
+    font-size: 32px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+li{
+    margin: 20px auto;
+}
+
+.button-div{
+    margin: 200px auto;
+    text-align: center;
+}
+
+.button-class{
+    background-color:darkgray;
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
