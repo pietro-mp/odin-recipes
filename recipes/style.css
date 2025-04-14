@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin: 20px auto;
+}
+
+.image-div{
+    text-align: center;
+}
+
+.image-div img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 64px;
+}
+
+#desc{
+    text-align: center;
+    font-size: 24px;
+    margin: 10px;
+}
+
+#desc p{
+    font-size: 20px;
+}
+
+#ingr,
+#steps{
+    list-style-position: inside;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 16px;
+}
+
+#ingr{
+    width: 250px;
+}
+
+#steps{
+    width: 750px;
+}
+
+.line{
+    width: auto;
+    height: 10px;
+    border-bottom: 5px solid lightgray;
+}
+
+.button-div{
+    margin: 50px auto;
+    text-align: center;
+}
+
+.button-class{
+    background-color:darkgray;
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
